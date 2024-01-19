@@ -1,0 +1,1 @@
+export const SquareLoadingPulse = ({ className = `w-[480px] h-12` }) => <div className={`bg-gray-300 rounded-md animate-pulse ${className}`}></div>
